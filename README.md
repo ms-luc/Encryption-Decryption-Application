@@ -11,3 +11,5 @@ create a file named plaintext.txt with the binary text you wish to encrypt
 create a file named decryptedtext.txt with the binary text you wish to encrypt
 
 please note to decrypt the encrypted text you just create you need to copy and past into the decryptedtext.txt
+
+©ms-luc & Daniel Gomez
